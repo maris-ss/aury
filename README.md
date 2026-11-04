@@ -1,6 +1,6 @@
 # Aury
 
-🔗 **[Acessar a Experiência Ao Vivo](https://aury-ashy.vercel.app/)**
+🔗 **[Clique aqui para acessar o site](https://aury-ashy.vercel.app/)**
 
 ![Preview do Projeto](https://github.com/user-attachments/assets/1279ab75-82fe-487b-b382-209f1f8cfd6f)
 
@@ -16,6 +16,6 @@ A plataforma cria um "santuário da alma", trocando a estética cyberpunk sombri
 - **Interação com a IA:** Um desafio conversacional onde o usuário negocia com a IA invasora.
 
 ## Tecnologias Utilizadas
-- **Design:** Figma, Illustrator (Concepção de Identidade Visual e UI/UX)
-- **Desenvolvimento Web e Mobile:** React, React Native
+- **Design:** Figma e Illustrator
+- **Desenvolvimento Web e Mobile:** HTML, CSS, JS, React e React Native
 - **Automação/Fluxos:** n8n
